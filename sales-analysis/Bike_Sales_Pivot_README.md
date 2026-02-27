@@ -2,4 +2,5 @@
 
 ## Pivot Table Summary
 
-![Pivot Table]sales-analysis/pivot_table_summary.png
+
+![Pivot Table](pivot_table_summary.png)
