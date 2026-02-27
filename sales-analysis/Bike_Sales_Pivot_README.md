@@ -2,4 +2,4 @@
 
 ## Pivot Table Summary
 
-sales-analysis/pivot_table_summary.png
+![Pivot Table]sales-analysis/pivot_table_summary.png
