@@ -6,4 +6,5 @@ This repository contains execel projects completed during my Data Analyst Bootca
 
 These projects demonstrate my ability to:
 
-1) tranform raw data into organized and clean pivot tables 
+1) tranform raw data into organized and clean pivot tables
+2) formulas in excel 
