@@ -3,4 +3,4 @@
 ## Pivot Table Summary
 
 
-![Pivot Table](1.pivot_table_summary.png)
+![Pivot Table](1. pivot_table_summary.png)
