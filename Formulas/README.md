@@ -1,5 +1,5 @@
 ## Common Excel Formulas
 
-![Formulas](screenshots/formulas_excel_summary.png)
+![2_formulas_excel](screenshots/formulas_excel_summary.png)
 
 
