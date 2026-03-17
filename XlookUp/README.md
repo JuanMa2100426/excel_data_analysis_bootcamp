@@ -2,6 +2,6 @@
 
 ## XLOOKUP excel 
 
-![XLOOLUP excel](3_XLOOKUP_summary.png)
+![XLOOLUP excel](3_XLOOUP_summary.png)
 
 
