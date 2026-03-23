@@ -2,7 +2,7 @@
 
 ## Conditional Formmating 
 
-![Conditional Formmating](4_Conditional_Formmating_summary.png)
+![Conditional_Formating](4_Conditional_Formatting_summary.png)
 
 
 
