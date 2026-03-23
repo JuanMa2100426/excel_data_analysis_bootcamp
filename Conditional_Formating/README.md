@@ -1,4 +1,4 @@
-# Conditional Formating: Icons sets, Data bars, new rules, manage new rules and others  
+# Conditional Formating 
 
 ## Conditional Formmating 
 
